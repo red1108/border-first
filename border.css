@@ -1,0 +1,7 @@
+h1+ol{
+    color:blue;
+}
+ol+p{
+    color:maroon;
+    font-family:Arial;
+}
